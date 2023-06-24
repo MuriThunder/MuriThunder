@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuriThunder
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Analytics at Google
+- 👀 I’m interested in Data Analytics projects
+- 🌱 I’m currently a graduate of Data Analytics at Google
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ayetigboakinola@gmail.com
 
