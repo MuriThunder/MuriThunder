@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akin
-- 🌱 ICertified Security Analyst and Cybersecurity
+- 🌱 Certified Security Analyst and Cybersecurity
 - ITIL, ComptiA Security +, Microsoft Deskstop Administrator 
 - - 📫 How to reach me ayetigboakinola@gmail.com
 
